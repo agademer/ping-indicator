@@ -110,9 +110,9 @@
               <widget class="GtkHScale" id="interval__hscale">
                 <property name="visible">True</property>
                 <property name="can_focus">True</property>
-                <property name="adjustment">100 100 2000 50 200 500</property>
+                <property name="adjustment">100 100 3600000 50 200 500</property>
                 <property name="lower_stepper_sensitivity">on</property>
-                <property name="fill_level">5000</property>
+                <property name="fill_level">3600000</property>
                 <property name="round_digits">50</property>
                 <property name="value_pos">right</property>
               </widget>
